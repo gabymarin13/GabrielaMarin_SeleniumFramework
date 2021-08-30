@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Search Tests">
+    <test name="Search Tests - Chrome">
+        <classes>
+            <class name="Selenium.TestSearch">
+                <methods>
+                    <include name="Test_Search_WithData"></include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

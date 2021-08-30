@@ -1,0 +1,14 @@
+DataProviders\SearchProvider.class
+Selenium\TestSearch.class
+DataProviders\SearchProvider$1.class
+Selenium\BaseClass.class
+DataProviders\ProductProvider$1.class
+Demo\DemoAccount.class
+DataProviders\ProductProvider.class
+Demo\TestWithData.class
+DataProviders\UsersProvider$1.class
+Selenium\TestAddToCart.class
+Selenium\PageObjectHandler.class
+Selenium\TestAccount.class
+Selenium\TestProduct.class
+DataProviders\UsersProvider.class

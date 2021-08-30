@@ -1,0 +1,14 @@
+{
+  "dataSet": [
+    {
+      "email" : "gabriela.marin.chaves@ucreativa.com",
+      "password" : "asdgk",
+      "userExists": true
+    },
+    {
+      "email" : "gabriela.marin.chaves@ucreativa.com",
+      "password" : "lofirir",
+      "userExists": false
+    }
+  ]
+}
